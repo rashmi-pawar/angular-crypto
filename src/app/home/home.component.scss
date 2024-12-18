@@ -1,0 +1,40 @@
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+  .bg-dark {
+    background-color: #172b4c !important;
+    color: #ffffff !important;
+}
+.js-copyright-label {
+    display: none !important;
+}
+.btn-facebook {
+    background-color: #3b5998;
+    border-color: #3b5998;
+    color: #ffffff;
+}
+.btn-twitter {
+    background-color: #1da1f2;
+    border-color: #1da1f2;
+    color: #ffffff;
+}
+.btn-linkedin {
+    background-color: #0077b5;
+    border-color: #0077b5;
+    color: #ffffff;
+}
+.btn-youtube {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: #ffffff;
+}
+.waves-circle {
+    text-align: center;
+    width: 2.5em;
+    height: 2.5em;
+    // line-height: 2.5em;
+    border-radius: 50%;
+    // padding: 4px;
+    -webkit-mask-image: none;
+}

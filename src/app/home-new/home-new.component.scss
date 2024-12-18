@@ -1,0 +1,87 @@
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+  .bg-dark {
+    background-color: #172b4c !important;
+    color: #ffffff !important;
+}
+.js-copyright-label {
+    display: none !important;
+}
+.btn-facebook {
+    background-color: #3b5998;
+    border-color: #3b5998;
+    color: #ffffff;
+}
+.btn-twitter {
+    background-color: #1da1f2;
+    border-color: #1da1f2;
+    color: #ffffff;
+}
+.btn-linkedin {
+    background-color: #0077b5;
+    border-color: #0077b5;
+    color: #ffffff;
+}
+.btn-youtube {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: #ffffff;
+}
+.waves-circle {
+    text-align: center;
+    width: 2.5em;
+    height: 2.5em;
+    // line-height: 2.5em;
+    // border-radius: 50%;
+    // padding: 4px;
+    -webkit-mask-image: none;
+}
+::ng-deep .js-head-title.tv-screener-table__head-left--title-three-lines {
+    color: white !important;
+    font-weight: bold !important;
+}
+::ng-deep  tr.tv-data-table__thead-row.tv-data-table__stroke.tv-screener-table__head {
+    background: #56667f !important;
+    color: white !important;
+}
+#particles-js {
+    height: 100vh;
+  }
+  .particle {
+    background-color: #fafbfd;
+    position:fixed;
+    top:64px;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index:0; 
+  }
+  #overlay {
+    position: relative;
+  }
+//   nav.core-nav.nav-core-sticky {
+//       background-color: #4b4c4c;
+//   }
+//   .topbar {
+//     background: #4b4c4c;
+// }
+.top-bar{
+  background-color: #4b4c4c;
+}
+nav.nav-white.nav-transparent .menu li a:hover {
+    color: #ed3833;
+}
+.top-bar .core-nav.nav-core-sticky.on-scroll {
+    top: 0;
+}
+::ng-deep.label-39Xi8p6T.top-39Xi8p6T {
+    top: unset !important;
+}
+#tsparticles {
+    /*   background; */
+    width: 100%;
+    background-color: #ffffff;
+    height: 100%;
+}

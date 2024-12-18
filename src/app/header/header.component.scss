@@ -1,0 +1,21 @@
+// .fixed {
+//     position: fixed;
+//     width: 100%;
+//     transition: 0.2s linear;
+//     top: 0px;
+// }
+
+// .nofixed {
+//     position: static;
+//     transition: 0.2s linear;
+//     top: -50px;
+// }
+.top-bar{
+    background-color: #474749;
+  }
+  nav.nav-white.nav-transparent .menu li a:hover {
+    color: #ed3833;
+}
+.top-bar .core-nav.nav-core-sticky.on-scroll {
+  top: 0;
+}

@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+@import 'corenav/coreNavigation.css';
+// @import 'corenav';
+
+::ng-deep .js-head-title.tv-screener-table__head-left--title-three-lines {
+    color: white !important;
+    font-weight: bold !important;
+}
+::ng-deep  tr.tv-data-table__thead-row.tv-data-table__stroke.tv-screener-table__head {
+    background: #56667f !important;
+    color: white !important;
+}
+nav.nav-white.nav-transparent .menu li.active > a {
+    color: #ed3833 !important;
+}
+nav .menu li.active > a {
+    border-bottom: 1px solid #ed3833;
+}
+ select.header-lang-bx{
+    background: transparent;
+    color: white;
+    border: 1px solid transparent;
+}
+.theme-warning .btn-outline.btn-primary:hover, .theme-warning .btn-outline.btn-primary:active, .theme-warning .btn-outline.btn-primary.active {
+    background-color: #ffffff !important;
+    border-color: #040404 !important;
+    color: #060606 !important;
+}
+.theme-warning .btn-primary:hover, .theme-warning .btn-primary:active, .theme-warning .btn-primary:focus, .theme-warning .btn-primary.active {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    color: #ed3833 !important;
+}
+ .label-39Xi8p6T.top-39Xi8p6T {
+    top: unset !important;
+}
